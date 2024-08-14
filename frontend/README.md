@@ -77,6 +77,6 @@ To install the project, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/zfooddel.git
+   git clone https://github.com/Zentalm-Genet/Food-Delivery-App.git
    cd zfooddel
    ```
